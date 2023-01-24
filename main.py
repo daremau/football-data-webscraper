@@ -21,7 +21,7 @@ time.sleep(3)
 
 #Getting data form matches
 matches = driver.find_elements(By.TAG_NAME, 'tr')
-#//*[@id="page-wrapper"]/div/div[3]/div[1]/detailed-team/div/div/div[2]/div/div/div[2]/table/tbody/tr[1]/td[2]
+
 date = []
 home_team = []
 score = []
